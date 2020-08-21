@@ -1,3 +1,4 @@
+// Kayra BOLAT
 let arr = [];
 let ptr = [];
 let P;
